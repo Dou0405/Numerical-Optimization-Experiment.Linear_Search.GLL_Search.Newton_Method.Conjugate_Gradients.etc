@@ -2,10 +2,10 @@
 Numerical Optimization Methods Experiment, including line search, GLL search, modified Cholesky decomposition, damped Newton method, quasi-Newton method, conjugate gradient method, and common test functions such as Extended Rosenbrock.
 
 # Experiment Description
-experiment1: <br />
-<br />
-experiment2: <br />
-<br />
+experiment1：<br />
+<img src="https://github.com/user-attachments/assets/ba5e4a85-d728-49a7-aa34-4872551e64d2" width="400" /><br />
+experiment2：<br />
+<img src="https://github.com/user-attachments/assets/38b7c7cd-52a5-493b-8810-36961974e4c7" width="450" /><br />
 ### File Description:
 
 - `damped_newton.py`: Damped Newton method, search criterion can be specified;
