@@ -2,7 +2,6 @@
 数值最优化方法实验，包括线搜索，GLL搜索，修正Cholesky分解，阻尼Newton，拟Newton，共轭梯度法等算法，以及常见测试函数Extended Rosenbrock等。
 
 # 实验说明
-该项目代码主要面向两次数值最优化方法大作业。<br />
 experiment1：<br />
 <img src="https://github.com/user-attachments/assets/ba5e4a85-d728-49a7-aa34-4872551e64d2" width="400" /><br />
 experiment2：<br />
